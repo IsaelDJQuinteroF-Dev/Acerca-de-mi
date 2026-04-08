@@ -8,6 +8,7 @@ Ayudo a las empresas a ahorrar tiempo mediante soluciones simples y efectivas.
 
 ## 🚀 Habilidades
 - Administración y gestión comercial
+- Excelent conocimiento de MS Office (Word, Excel, Power Point)
 - Coordinación de proyectos
 - Python (pandas, numpy, automatización básica)
 
